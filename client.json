@@ -1,0 +1,8 @@
+[
+    {"client_id": 1, "ville": "Rabat", "revenus": 50000, "nombre_appartements": 2},
+    {"client_id": 2, "ville": "Casablanca", "revenus": 70000, "nombre_appartements": 1},
+    {"client_id": 3, "ville": "Rabat", "revenus": 60000, "nombre_appartements": 3},
+    {"client_id": 4, "ville": "Casablanca", "revenus": 80000, "nombre_appartements": 2},
+    {"client_id": 5, "ville": "Tanger", "revenus": 55000, "nombre_appartements": 1}
+  ]
+  
